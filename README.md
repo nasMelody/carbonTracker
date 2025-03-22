@@ -19,7 +19,7 @@ Set a personal carbon-saving goal and will be calculated with the activity that 
 - **Summary Charts**  
 Visual summary of your logged activities using an interactive bar chart (powered by Recharts).
 
-- **Achievements + Confetti **  
+- **Achievements + Confetti**  
 Unlock milestones (like saving 50kg of CO₂) and get rewarded with an animated **confetti burst** and a celebratory popup!
 
 -  **Local Storage Persistence**  
