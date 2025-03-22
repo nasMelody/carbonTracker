@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); 
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #b6d0f3; 
+    color: #1f2937;
+    text-align: center;
+} 
+
+
+.form-box {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    margin-bottom: 24px; 
+    max-width: 500px;
+    margin: 0 auto;
+  }
+   
+  .form-box:hover {
+    transform: scale(1.01);
+    transition: 0.2s ease-in-out;
+  }
+
+  
+  .form-box input[type="text"],
+  .form-box input[type="number"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    font-size: 16px; 
+    max-width: 400px;
+  }
+  
+  
+  .form-box button {
+    background-color: #16a34a; 
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .form-box button:hover {
+    background-color: #15803d; 
+  }
+  
+  .activity-box {
+    background: white;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    margin-bottom: 24px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
