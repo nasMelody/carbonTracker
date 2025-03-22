@@ -10,7 +10,7 @@ Built with:
 
 ##  Features
 
-- **Activity Logging**  
+-**Activity Logging**  
 Log daily eco-friendly activities (e.g., biking, planting trees) with their estimated CO₂ savings.
 
 - **Goal Setting**  
